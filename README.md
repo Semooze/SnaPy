@@ -57,7 +57,7 @@ print(lsh.query(1, min_jaccard=0.5))
 
 # Generate minhash signature and add new texts to LSH model.
 new_text = [
-    'Jupiter is primarily composed of hydrogen with a quarter of its mass being 
+    'Jupiter is primarily composed of hydrogen with a quarter of its mass being '
     'helium',
     'Jupiter moving out of the inner Solar System would have allowed the '
     'formation of inner planets.',
